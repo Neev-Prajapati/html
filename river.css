@@ -1,0 +1,94 @@
+
+body
+{
+    background-color: #083d77;
+    
+    background-size: 100%;
+    font-family: Haettenschweiler;
+    size: 15px;
+    color: #143a69;       
+}
+
+ul
+{
+    font-family: Haettenschweiler;
+    font-size: 25px;
+    color: #163051;
+    background-color: #eeeeff;
+    border-radius: 40px;
+    vertical-align: middle;
+    word-spacing: 10;
+    font-weight: 100;
+    letter-spacing: .5px;
+}
+img
+{
+    border-radius: 30px;
+    
+}
+header
+{
+    font-family: Bauhaus 93;
+    text-align: center;
+    font-size: 60px;
+    background-color: white;
+    border-width: 50px;
+    border-radius: 30px;
+    color: #183446;
+    margin: 40px 50px 0 50px;
+    padding: 20px;
+
+}
+h2
+{
+    font-weight: 300;
+    text-decoration: underline;
+}
+
+.des
+{
+    height: 350px;
+    width: 1100px;
+    text-align: justify;
+}
+img
+{
+    transition: 0.3s;
+}
+
+img.hover
+{
+    transform: scale(1.1);
+    box-shadow: #000000;
+}
+.back
+{
+    font-family: Bauhaus 93;
+    background-color: #eeeeff;
+    border-radius: 30px;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+button
+{
+    font-family: Bauhaus 93;
+    text-align: center;
+    border-radius: 30px;
+    background-color: white;
+    align-items: center;
+    width: 100px;
+    font-size: 15px;
+    color: #eeeeff;
+    border-color: #eeeeff;
+    margin-left: 660px;
+    
+}
+a
+{
+    text-decoration: none;
+    color: #183446;
+    font-size: 20px;
+    font-weight: lighter;
+}
